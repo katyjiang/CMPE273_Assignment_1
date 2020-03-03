@@ -2,6 +2,8 @@
 
 You will be adding package lost detection and reliable message delivery to UDP.
 
+There is a test code for setup timeout in the udp_server.py.
+
 # Requirements
 
 * Implement a simple acknowledgement protocol that you assign unique sequence id for each package you send to the server.
