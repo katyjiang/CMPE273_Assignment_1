@@ -1,0 +1,19 @@
+katy:tcp katy$ python3 tcp_client.py katy 2 3
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong
+
+katy:tcp katy$ python3 tcp_client.py jess 3 5
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong
+Sending data:ping
+Received data:pong:

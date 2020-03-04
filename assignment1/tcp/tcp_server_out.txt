@@ -1,0 +1,12 @@
+katy:tcp katy$ python3 tcp_server.py 
+Server started at port 5000
+Connected Client:jess.
+Connected Client:katy.
+Received data:jess:ping
+Received data:katy:ping
+Received data:katy:ping
+Received data:jess:ping
+Received data:katy:ping
+Received data:jess:ping
+Received data:jess:ping
+Received data:jess:ping
